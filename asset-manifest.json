@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Chart1/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/React-Chart1/static/js/main.8e410e1e.chunk.js",
+    "main.js.map": "/React-Chart1/static/js/main.8e410e1e.chunk.js.map",
+    "runtime-main.js": "/React-Chart1/static/js/runtime-main.a0e4842e.js",
+    "runtime-main.js.map": "/React-Chart1/static/js/runtime-main.a0e4842e.js.map",
+    "static/js/2.e1d5807c.chunk.js": "/React-Chart1/static/js/2.e1d5807c.chunk.js",
+    "static/js/2.e1d5807c.chunk.js.map": "/React-Chart1/static/js/2.e1d5807c.chunk.js.map",
+    "index.html": "/React-Chart1/index.html",
+    "precache-manifest.e2bb6c353b27570e9049cdce18d50c4f.js": "/React-Chart1/precache-manifest.e2bb6c353b27570e9049cdce18d50c4f.js",
+    "service-worker.js": "/React-Chart1/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/React-Chart1/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.e1d5807c.chunk.js.LICENSE.txt": "/React-Chart1/static/js/2.e1d5807c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0e4842e.js",
+    "static/js/2.e1d5807c.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.8e410e1e.chunk.js"
+  ]
+}
